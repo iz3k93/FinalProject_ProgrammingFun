@@ -1,0 +1,39 @@
+body{
+  background-color: #100040;
+  background-image: url(../images/halfnhalf.png);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#container div {
+  background-color: #000000;
+  box-shadow: 2px 2px 2px #777;
+  border: 1px solid #777;
+  bottom: 0px;
+  color: #ff99b3;
+  font-style:italic;
+  float: none;
+  height: 200px;
+  left: 0px;
+  min-width: 500px;
+  max-width: 100px;
+  margin: auto;
+  padding: 1em;
+  position: fixed;
+  right: 0px;
+  top: 0px;
+}
+
+#footer {
+  color:#000040;
+  font-style: italic;
+  left: 350px;
+  position: fixed;
+}
+#next {
+  background-color: #cfa29d;
+  color: #000040;
+  position: fixed;
+  bottom:100px;
+  right: 100px;
+}
